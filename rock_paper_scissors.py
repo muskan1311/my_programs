@@ -26,7 +26,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+#code for rock paper scissors
 a = [0,1,2]
 game_images= [rock, paper, scissors]
 user_choice = int(input("enter your choice from 0, 1 or 2: "))
